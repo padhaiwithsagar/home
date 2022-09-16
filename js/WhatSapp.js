@@ -16,11 +16,11 @@ var options = {
         "position": "right"
     },
     "brandSetting": {
-        "brandName": "GradeUpEducationInstitute",
+        "brandName": "Padhai With Sagar",
         "brandSubTitle": "Sagar Yadav",
         "brandImg": "https://cdn.clare.ai/wati/images/WATI_logo_square_2.png",
         "welcomeText": "Hi there!\nHow can I help you?",
-        "messageText": "Hello! 🤝%0AI want to join GradeUp Education Institute.",
+        "messageText": "Hello! 🤝%0AI want to purchase Study Material.",
         "backgroundColor": "#0a5f54",
         "ctaText": "Start Chat",
         "borderRadius": "25",
